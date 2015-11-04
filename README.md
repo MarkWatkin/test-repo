@@ -7,3 +7,5 @@ This allows:
 * etc
 
 #I added this header in my local repository
+* And these
+* Bullet points
